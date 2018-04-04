@@ -7,7 +7,7 @@ Preparing the Development
 -------------------------
 
 1. Ensure ``pip`` and ``pipenv`` are installed.
-2. Clone repository: ``git clone git@github.com:neildavies44/pgbackup``
+2. Clone repository: ``git clone https://github.com/neildavies44/pgbackup.git``
 3. ``cd`` into the repository.
 4. Fetch development dependencies ``make install``
 5. Activate virtualenv: ``pipenv shell``
